@@ -1,0 +1,2 @@
+set pcname Old_Building
+ip 10.135.7.1 10.135.4.1 22

@@ -1,0 +1,3 @@
+set pcname INTERNET
+ip 110.1.1.111 110.1.1.1 24
+ip 2001:b:b:b::111/64
